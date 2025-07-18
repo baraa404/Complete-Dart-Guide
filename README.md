@@ -13,32 +13,32 @@
 
 ---
 
-## 📋 Complete Table of Contents
+## 📋 Table of Contents
 
 ### Part I: Dart Fundamentals
-1. [🎪 Data Types - The Foundation](#1-data-types---the-foundation)
-2. [⚙️ Operators - Working with Data](#2-operators---working-with-data)
-3. [📦 Collections - Storing Multiple Values](#3-collections---storing-multiple-values)
-4. [⏰ Late Keyword - Delayed Initialization](#4-late-keyword---delayed-initialization)
-5. [🛡️ Null Safety - Avoiding Null Errors](#5-null-safety---avoiding-null-errors)
-6. [🔀 Conditionals - Making Decisions](#6-conditionals---making-decisions)
-7. [🔄 Loops - Repeating Actions](#7-loops---repeating-actions)
-8. [🔧 Functions - Reusable Code Blocks](#8-functions---reusable-code-blocks)
-9. [💬 Input & Output - User Interaction](#9-input--output---user-interaction)
-10. [🚨 Error Handling - Try & Catch](#10-error-handling---try--catch)
+1. [🎪 Data Types](#1--data-types---the-foundation)
+2. [⚙️ Operators](#2-️-operators---working-with-data)
+3. [📦 Collections](#3--collections---storing-multiple-values)
+4. [⏰ Late Keyword](#4--late-keyword---delayed-initialization)
+5. [🛡️ Null Safety](#5-️-null-safety---avoiding-null-errors)
+6. [🔀 Conditionals](#6--conditionals---making-decisions)
+7. [🔄 Loops](#7--loops---repeating-actions)
+8. [🔧 Functions](#8--functions---reusable-code-blocks)
+9. [💬 Input & Output](#9--input--output---user-interaction)
+10. [🚨 Error Handling](#10--error-handling---try--catch)
 
 ### Part II: Object-Oriented Programming
-11. [📦 Classes - The OOP Foundation](#11-classes---the-oop-foundation)
-12. [🏗️ Constructors - Object Creation](#12-constructors---object-creation)
-13. [🔒 Private Variables & Getters/Setters](#13-private-variables--getterssetters)
-14. [👨‍👩‍👧‍👦 Inheritance - Code Reuse](#14-inheritance---code-reuse)
-15. [🔄 Method Overriding - Customizing Behavior](#15-method-overriding---customizing-behavior)
-16. [📋 Abstract Classes - Templates & Contracts](#16-abstract-classes---templates--contracts)
-17. [📝 Implements - Pure Contracts](#17-implements---pure-contracts)
-18. [🎭 Polymorphism - Many Forms](#18-polymorphism---many-forms)
-19. [🧩 Mixins - Flexible Code Sharing](#19-mixins---flexible-code-sharing)
-20. [👻 Anonymous Objects - Use and Forget](#20-anonymous-objects---use-and-forget)
-21. [📊 Enums - Named Constants](#21-enums---named-constants)
+11. [📦 Classes](#11--classes---the-oop-foundation)
+12. [🏗️ Constructors](#12-️-constructors---object-creation)
+13. [🔒 Private Variables & Getters/Setters](#13--private-variables--getterssetters)
+14. [👨‍👩‍👧‍👦 Inheritance](#14--inheritance---code-reuse)
+15. [🔄 Method Overriding](#15--method-overriding---customizing-behavior)
+16. [📋 Abstract Classes](#16--abstract-classes---templates--contracts)
+17. [📝 Implements](#17--implements---pure-contracts)
+18. [🎭 Polymorphism](#18--polymorphism---many-forms)
+19. [🧩 Mixins](#19--mixins---flexible-code-sharing)
+20. [👻 Anonymous Objects](#20--anonymous-objects---use-and-forget)
+21. [📊 Enums](#21--enums---named-constants)
 
 ---
 
